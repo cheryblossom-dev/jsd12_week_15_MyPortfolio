@@ -6,7 +6,7 @@ export function Projects() {
       title: "MERN Stack CRUD Web App",
       category: "Full Stack Application",
       description:
-        "เว็บแอปพลิเคชันแบบ Full Stack ที่พัฒนาด้วย MERN Stack ครบวงจร มีระบบจัดการสินค้า, ออเดอร์, และระบบล็อกอิน พร้อม Authentication ด้วย JWT และ UI ที่ใช้งานง่าย",
+        "เว็บแอปพลิเคชันแบบ Full Stack ร่วมทำงานจริงกับทีมโปรเจกต์กลุ่ม ที่พัฒนาด้วย MERN Stack ครบวงจร มีระบบจัดการสินค้า, ออเดอร์, และระบบล็อกอิน พร้อม Authentication ด้วย JWT และ UI ที่ใช้งานง่าย",
       image: "/project-1.png",
       tags: ["MongoDB", "Express.js", "React.js", "Node.js"],
       links: {
@@ -26,7 +26,7 @@ export function Projects() {
           <h2 className="text-3xl md:text-5xl font-bold mb-6">ผลงาน</h2>
           <div className="w-20 h-1 bg-primary mb-8" />
           <p className="text-lg text-muted-foreground max-w-2xl">
-            โปรเจกต์ที่แสดงให้เห็นทักษะด้าน Full Stack Development ตั้งแต่
+            โปรเจกต์กลุ่มที่แสดงให้เห็นทักษะด้าน Full Stack Development ตั้งแต่
             Frontend จนถึง Backend และ Database
           </p>
         </div>
