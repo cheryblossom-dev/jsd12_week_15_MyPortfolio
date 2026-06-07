@@ -43,7 +43,7 @@ export function Projects() {
                 <div className="relative group overflow-hidden rounded-2xl border border-border aspect-[16/10] bg-secondary">
                   <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity z-10 mix-blend-overlay"></div>
                   <img
-                    src={project.image}
+                    src="https://res.cloudinary.com/dwmm23ite/image/upload/v1780810300/ju_jplkhh.png"
                     alt={project.title}
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
                   />
