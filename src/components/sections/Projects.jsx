@@ -75,17 +75,17 @@ export function Projects() {
 
                 <div className="flex items-center gap-6">
                   <a
-                    href={project.links.live}
+                    href="https://group5-ecommerce-frontend-sprint2.vercel.app/catalog"
                     className="flex items-center gap-2 font-bold text-foreground hover:text-primary transition-colors border-b-2 border-transparent hover:border-primary pb-1"
                   >
                     View Live <ArrowUpRight className="w-4 h-4" />
                   </a>
-                  <a
+                  {/* <a
                     href={project.links.github}
                     className="flex items-center gap-2 font-medium text-muted-foreground hover:text-foreground transition-colors"
                   >
                     <Github className="w-5 h-5" /> Source Code
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
