@@ -28,7 +28,7 @@ export function Projects() {
         "Information Management",
       ],
       links: {
-        live: "#", // ใส่ลิงก์คู่มือของ Baanporjao ทีหลัง
+        live: "https://drive.google.com/drive/folders/1llupGIc_yxAUHfSYauBLiTJtyFV7yYYY?usp=drive_link", // ใส่ลิงก์คู่มือของ Baanporjao ทีหลัง
         github: "#",
       },
     },
