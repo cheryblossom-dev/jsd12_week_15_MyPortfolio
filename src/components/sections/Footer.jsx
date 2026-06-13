@@ -12,7 +12,7 @@ export function Footer() {
             SUPHATIP<span className="text-primary">.</span>
           </a>
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Suphatip Kaewjaem. All rights reserved.
+            © {new Date().getFullYear()} Suphatip Keawcham. All rights reserved.
           </p>
         </div>
 
