@@ -45,7 +45,7 @@ export function Hero() {
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </a>
             <a
-              href="https://drive.google.com/file/d/10NH6NraJwHpMSDfvz59y-jU73C2Sy4Cw/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1YXE25CFU0cVECecB6WgELaf5zvFYzC0N/view?usp=drive_link"
               download
               className="group flex items-center gap-2 px-6 py-3 border border-primary text-primary bg-transparent font-semibold rounded-lg hover:bg-primary hover:text-primary-foreground transition-all"
             >
