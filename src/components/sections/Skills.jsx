@@ -9,7 +9,7 @@ export function Skills() {
         // "React.js",
         // "JavaScript",
         "HTML",
-        "CSS",
+        // "CSS",
         "Tailwind CSS",
         // "Responsive Design",
       ],
