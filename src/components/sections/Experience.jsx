@@ -1,7 +1,7 @@
 export function Experience() {
   const experiences = [
     {
-      role: "Full Stack Developer (Training)",
+      role: "Full Stack Developer",
       company: "JSD Generation Thailand",
       period: "มี.ค. 2026 – มิ.ย. 2026",
       description:
