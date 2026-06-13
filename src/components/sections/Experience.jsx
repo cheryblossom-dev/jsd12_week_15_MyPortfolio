@@ -25,8 +25,8 @@ export function Experience() {
 
   const education = [
     {
-      degree: "Full Stack Development",
-      school: "JSD Generation Thailand",
+      degree: "Junior Software Developer Bootcamp",
+      school: "Generation Thailand (JSD12)",
       year: "2026",
     },
     {
